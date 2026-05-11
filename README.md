@@ -86,7 +86,7 @@ A fitness web application with a full backend REST API built using the MERN stac
 
 ---
 
-#### 📚 [Course Registration System]
+#### 📚 Course Registration System
 A university course registration system built in C++ applying core data structure concepts.
 * **Key Features:** Hash maps for fast lookups, stacks for prerequisite tracking, queues for registration order, student and admin roles.
 * **Technologies & Skills:** C++, OOP, Data Structures, Hash Maps, Stacks, Queues.
