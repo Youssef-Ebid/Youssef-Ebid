@@ -7,7 +7,7 @@
   <a href="mailto:yousefebeid2016@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1NsjkSBepHaH0ZBv0SsibEHnDU4nyOvax/view?usp=sharing](https://drive.google.com/file/d/1vECDjjv8dVc1d-Ij-rYImx8Vv9l4MKfl/view?usp=sharing](https://drive.google.com/file/d/1vECDjjv8dVc1d-Ij-rYImx8Vv9l4MKfl/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1vECDjjv8dVc1d-Ij-rYImx8Vv9l4MKfl/view?usp=sharing">
      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
